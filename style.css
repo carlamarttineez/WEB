@@ -1,0 +1,81 @@
+body {
+    background-color: #8ff0a4;
+}
+
+h1 {
+    color: #008000;
+    text-align: center;
+}
+
+p, th, td, label {
+    font-family: Arial, sans-serif;
+    font-size: 19px;
+    color: #006400;
+}
+
+table, th, td {
+    border: 1px solid #006400;
+}
+
+th {
+    background-color: #008000;
+    color: #ffffff;
+}
+
+header {
+    background-color: #ffffff;
+    color: #006400;
+    padding: 0px;
+}
+
+nav a {
+    color: #006400;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+nav a:hover {
+    color: #006400;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #ffffff;
+    color: #006400;
+    text-align: center;
+    padding: 7px;
+}
+
+.destacat {
+    background-color: #ffffff;
+    font-weight: normal;
+}
+
+button {
+    background-color: #8ff0a4;
+    color: #33d17a;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #006400;
+}
+
+img {
+    width: 280px;
+    border-radius: 11%;
+    border: 2px solid #000080;
+}
+
+input, textarea {
+    padding: 5px;
+    border: 2px solid #808080;
+    border-radius: 3px;
+}
+
+input:focus, textarea:focus {
+    border-color: #0000ff;
+}
